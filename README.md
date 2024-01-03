@@ -8,3 +8,4 @@
 isthis-rishi/isthis-rishi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+v[![](https://visitcount.itsvg.in/api?id=isthis-rishi&label=1128&icon=0&pretty=false)](https://visitcount.itsvg.in)
